@@ -86,7 +86,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Tengo5Euros/HowManyTimeLeft" title="HowManyTimeLeft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tengo5Euros&repo=HowManyTimeLeft&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/Tengo5Euros/Mortal-Kombat-Wiki-Community" title="Mortal-Kombat-Wiki"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tengo5Euros&repo=Mortal-Kombat-Wiki&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Tengo5Euros/MyAnalyst" title="MyAnalyst"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tengo5Euros&repo=MyAnalyst&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tengo5Euros/QuestManager" title="QuestManager"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tengo5Euros&repo=QuestManager&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
