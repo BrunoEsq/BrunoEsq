@@ -26,7 +26,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="https://port-folio-chi-blush.vercel.app/" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://port-folio-chi-blush.vercel.app/#contact" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: brunoesquiva12111@gmail.com">brunoesquiva12111@gmail.com</a>
 </p>
